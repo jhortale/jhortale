@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, there! 👋 Welcome to my profile 😄 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jhortale)](https://github.com/jhortale)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhortale/)](https://www.linkedin.com/in/jhortale/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/jhortale)](https://t.me/jhortale)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhortale@gmail.com)](mailto:jhortale@gmail.com)
+
+### About me
+
+My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies 💻. and music 🎧!
+  
+- In 💜 with  Node.js and React.js language. 
+- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes and software architecture.
+- 📫  Please do not hesitate to contact me.
+
 
 <!--
 **jhortale/jhortale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
