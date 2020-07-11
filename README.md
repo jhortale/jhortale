@@ -9,7 +9,7 @@
 
 My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies 💻. and music 🎧!
   
-- In 💜 with  Node.js and React.js language. 
+- In 💜 with  Node.js and React.js. 
 - 📚  Learning about Microservices, CI/CD, Docker, Kubernetes and software architecture.
 - 📫  Please do not hesitate to contact me.
 
