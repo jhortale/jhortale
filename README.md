@@ -13,7 +13,7 @@ My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies
 - 📚  Learning about Golang, Microservices, CI/CD, Docker, Kubernetes and software architecture.
 - 📫  Please do not hesitate to contact me.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhortalea&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhortale&show_icons=true&theme=dracula)
 
 
 
