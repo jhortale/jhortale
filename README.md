@@ -16,7 +16,7 @@ My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhortale&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhortale&langs_count=8&theme=dracula)](https://github.com/jhortale/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhortale&langs_count=4&theme=dracula)](https://github.com/jhortale/github-readme-stats)
 
 
 
