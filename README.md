@@ -7,7 +7,7 @@
 
 ### About me
 
-My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies 💻. and music 🎧!
+My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies 💻. and electronic music production 🎧!
   
 - In 💜 with  Node.js and React.js. 
 - 📚  Learning about Golang, Microservices, CI/CD, Docker, Kubernetes and software architecture.
