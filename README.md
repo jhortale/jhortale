@@ -15,8 +15,17 @@ My name is Joao and I am a Fullstack Web Developer. Passionate about tecnologies
 
 ##
 
+<div>
+  <a href="https://github.com/diegoclair">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhortale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhortale&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
+
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhortale&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhortale&show_icons=true&theme=dracula)](https://github.com/jhortale/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhortale&show_icons=true&theme=dracula&layout=compact&langs_count=8)](https://github.com/jhortale/github-readme-stats)
 
 
 
